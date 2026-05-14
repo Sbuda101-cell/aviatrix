@@ -129,4 +129,3 @@ ani = FuncAnimation(
 
 plt.tight_layout()
 plt.show()
-matplotlib
