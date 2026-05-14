@@ -64,7 +64,6 @@ def classify(multiplier):
 
     else:
         return "HIGH"
-cash out 1× before crash
 
 # ==========================================
 # LIVE GRAPH UPDATE
